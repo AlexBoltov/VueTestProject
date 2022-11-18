@@ -30,7 +30,7 @@ export default {
       this.likes += 1;
     },
     createPost(post) {
-      this.posts.push(post)
+      this.posts.push(post);
     }
   },
 
